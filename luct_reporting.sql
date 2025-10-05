@@ -1,0 +1,3 @@
+-- LUCT Reporting System Database Schema
+-- DIWA2110 Assignment 2
+-- Faculty of ICT, Limkokwing University
